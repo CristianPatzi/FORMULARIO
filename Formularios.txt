@@ -1,0 +1,19 @@
+
+
+Un formulario es un documento, físico o digital, diseñado para que un usuario introduzca datos estructurados, como nombres, apellidos, dirección y fecha, en las zonas correspondientes. Su propósito es recopilar información de manera ordenada y coherente, permitiendo que los datos sean almacenados y procesados posteriormente.
+
+En el momento de la creación de un formulario es importante tener en cuenta que las preguntas deben ser claras, precisas y con un diseño intuitivo.
+
+Atributos de un Formulario:
+- Checkbox: es un elemento que permite a los usuarios seleccionar una o mas opciones, se suele usar normalmente para aceptar términos y condiciones. Estos suelen tener un diseño de casillas cuadradas vacías con las que se puede interactuar para seleccionar distintas opciones el cual cambia a tener una equis en el interior al ser seleccionado.
+
+- Radio Button: es un elemento utiliza para seleccionar una sola opción de un conjunto de opciones, a diferencia de los anteriores este solo permite elegir una opción a la vez.
+Este suele tener un diseño circular vacío, con el que se puede interactuar para seleccionar una opción el cual cambia a estar relleno al ser seleccionado
+
+- Select. es un elemento el cual representa una lista desplegable o menús de selección el cual permite al usuario elegir una o varias opciones de un conjunto predefinido. Este suele ser representado como un recuadro con una opción seleccionada por defecto o con una descripción para seleccionar una de las opciones, el cual al interactuar con este despliega una lista con diferentes opciones para seleccionarlas.
+	*Optgroup: agrupa opciones dentro de un select
+
+- Input: es un elemento el cual permite insertar múltiples tipos mediante el atributo type, ya sea texto (text), contraseñas (password) este como un campo de texto que oculta los caracteres, correo (mail) campo con una dirección de correo, link (url) campo para direcciones web, numero de teléfono (tel) campo para teléfonos, search campo de búsqueda. números (number), fechas y hora (datetime), archivos (file), imágenes (image), botones (submint-enviar, reset-restablecer, button-acciones personalizadas), todos estos entre otros.
+
+- Textarea: es un elemento de inserción de texto multilínea usado en una consulta o una reclamación sobre algún tipo de error, para describir una situación sobre algún incidente con el formulario o información adicional aportada. Este se representa como un recuadro extenso.
+
