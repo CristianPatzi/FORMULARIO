@@ -1,4 +1,4 @@
-
+FORMULARIOS
 
 Un formulario es un documento, físico o digital, diseñado para que un usuario introduzca datos estructurados, como nombres, apellidos, dirección y fecha, en las zonas correspondientes. Su propósito es recopilar información de manera ordenada y coherente, permitiendo que los datos sean almacenados y procesados posteriormente.
 
@@ -17,3 +17,5 @@ Este suele tener un diseño circular vacío, con el que se puede interactuar par
 
 - Textarea: es un elemento de inserción de texto multilínea usado en una consulta o una reclamación sobre algún tipo de error, para describir una situación sobre algún incidente con el formulario o información adicional aportada. Este se representa como un recuadro extenso.
 
+PERMISOS
+Debido a que el acceso a los contactos, la galeria de imagenes y la camara del dispositivo es informacion sensible, es necesario que el usuario apete el uso de esto en la aplicación dando permisos a la aplicación de acceder a esta información externa y usarla dentro de la aplicación, teniendo en cuenta que en los permisos y condiciones, previamente aceptados se especifico el uso de esta información dentro de la aplicación y la protección de estos datos.
